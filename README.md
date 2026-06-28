@@ -6,6 +6,5 @@ im Vanya и я начинающий вкатуненок 😓😓😓
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/iv4n1v4n0v)
 
 - 🌱 I’m currently trying to get through Data Science and Math
-- 📫 How you can reach me: 
 - ⚡ Fun fact: I'm Russian
 
